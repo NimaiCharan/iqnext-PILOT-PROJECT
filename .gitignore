@@ -39,6 +39,7 @@ target/
 /.metadata
 
 #0thers
+*/.git
 */.gitignore
 */.mvn
 */.mvn*
