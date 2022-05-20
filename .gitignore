@@ -43,3 +43,6 @@ target/
 */.gitignore
 */.mvn
 */.mvn*
+*/venv/*
+*/__pycache__
+**/.env
